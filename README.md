@@ -214,7 +214,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
--- include your output screenshots ---
+![output](./output.png)
 
 ## Result:
 
